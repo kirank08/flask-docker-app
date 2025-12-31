@@ -1,5 +1,5 @@
 # flask-docker-app
-Step-by-Step Sections for README.md
+
 1️⃣ Project Overview
 
 Describe the project in 2–4 sentences.
